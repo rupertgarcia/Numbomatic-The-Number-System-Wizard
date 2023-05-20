@@ -1,0 +1,16 @@
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\conversion-calculation.csprojAssemblyReference.cache
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\conversion-calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\conversion-calculation.AssemblyInfoInputs.cache
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\conversion-calculation.AssemblyInfo.cs
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\conversion-calculation.csproj.CoreCompileInputs.cache
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\bin\Debug\net5.0\conversion-calculation.exe
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\bin\Debug\net5.0\conversion-calculation.deps.json
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\bin\Debug\net5.0\conversion-calculation.runtimeconfig.json
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\bin\Debug\net5.0\conversion-calculation.runtimeconfig.dev.json
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\bin\Debug\net5.0\conversion-calculation.dll
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\bin\Debug\net5.0\ref\conversion-calculation.dll
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\bin\Debug\net5.0\conversion-calculation.pdb
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\conversion-calculation.dll
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\ref\conversion-calculation.dll
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\conversion-calculation.pdb
+D:\Rupert's Folder\Code Stuff\C#\conversion-calculation\obj\Debug\net5.0\conversion-calculation.genruntimeconfig.cache
