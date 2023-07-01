@@ -47,7 +47,7 @@ namespace MyNameSpace
             switch (input)
             {
                 case "1":
-                    
+                    // Handle lessons
                     break;
 
                 case "2":
