@@ -14,13 +14,22 @@ namespace MyNameSpace
     public class NumberSystemMenu
     {
         private bool running;
+        private ExecuteConversion conversion;
+        private ExecuteRecreational recreation;
+        private ExecuteLesson lesson;
+
+        public NumberSystemMenu()
+        {
+            running = true;
+            conversion = new ExecuteConversion();
+            recreation = new ExecuteRecreational();
+            lesson = new ExecuteLesson();
+        }
 
         public void Start()
         {
-            running = true;
-
             Console.WriteLine("--------------------------------");
-            Console.WriteLine("Learning About Number Systems");
+            Console.WriteLine("Numbomatic: The Number System Archon");
             Console.WriteLine("--------------------------------");
 
             while (running)
@@ -33,10 +42,10 @@ namespace MyNameSpace
 
         private void DisplayMenu()
         {
-            Console.WriteLine("\nSelect an option:");
+            Console.WriteLine("Select an option:");
             Console.WriteLine("1. Lessons");
             Console.WriteLine("2. Number System Converter");
-            Console.WriteLine("3. Have fun!");
+            Console.WriteLine("3. Recreational (Have Fun!)");
             Console.WriteLine("4. Exit");
             Console.WriteLine("----------------------");
             Console.Write("Enter your choice (1-4): ");
@@ -47,16 +56,14 @@ namespace MyNameSpace
             switch (input)
             {
                 case "1":
-                    // Handle lessons
+                    lesson.LessonMenu();
                     break;
 
                 case "2":
-                    ExecuteConversion conversion = new ExecuteConversion();
                     conversion.ConvertNumberSystem();
                     break;
 
                 case "3":
-                    ExecuteRecreational recreation = new ExecuteRecreational();
                     recreation.RecreationalGames();
                     break;
 
